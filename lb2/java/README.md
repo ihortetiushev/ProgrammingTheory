@@ -13,3 +13,5 @@ Luis Rovirosa [@luisrovirosa](https://www.twitter.com/luisrovirosa)
 Jordi Anguela [@jordianguela](https://www.twitter.com/jordianguela)
 
 [Original repository](https://github.com/CodiumTeam/weather-kata)
+
+refactored code is in package 'refactored'
