@@ -1,0 +1,5 @@
+Fixed
+Tea     Revenue:  190 Expenses:  120
+Coffe   Revenue:  325 Expenses:  120
+Water   Revenue:  682 Expenses:  50
+Milk    Revenue:  829 Expenses:  67
